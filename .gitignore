@@ -3,10 +3,10 @@ build/
 cmake-build-debug/
 **/CMakeFiles/
 *.cmake
-test/lib/googletest/
 CMakeCache.txt
 .idea/
 *.a
 **/Makefile
 **/file_system_impl
 **/file_system_impl_tests
+**/*.cbp
