@@ -10,3 +10,4 @@ CMakeCache.txt
 **/file_system_impl
 **/file_system_impl_tests
 **/*.cbp
+test/lib/googletest/.git/
